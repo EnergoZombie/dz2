@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dz2": {
+      "commandName": "Project",
+      "commandLineArgs": "3\r\n3\r\n2"
+    }
+  }
+}
